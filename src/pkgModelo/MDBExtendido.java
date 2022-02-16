@@ -14,7 +14,7 @@ import java.sql.SQLException;
 public class MDBExtendido extends  MDB{
     public MDBExtendido(){
         MDB mDB = new MDB();
-
+        //Hola
     }
     public  String modificarRegistro(String nombreTabla, String campos, String condicion,int limite){
 		String resultado;
