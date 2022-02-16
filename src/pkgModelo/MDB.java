@@ -10,7 +10,7 @@ public class MDB {
 	protected Statement executer;
 	protected ResultSet dataSet;
 	protected Conexion conexion;
-//Conexion Beunas
+       //Conexion Jimeno islas José
         public MDB() {
            // conexion = new Conexion("com.mysql.jdbc.Driver",  "jdbc:mysql://localhost/bdcostos", "root","administrador");//CAMBIAR BDCOSTOS POR EL NOMBRE DE SU BD
 	
