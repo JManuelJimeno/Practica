@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.*;
 
 public class MDB {
-	
+	//cambio de Tona
 	protected String sqlQuery;
 	protected String table;
 	protected Statement executer;
@@ -18,7 +18,8 @@ public class MDB {
 	// conexion = new Conexion("com.mysql.jdbc.Driver",  "jdbc:mysql://127.0.0.1:3305/bddatos", "root","administrador");
         }
 
-   
+        //Cambio de Ramiro Hernández 
+        //Hola
 	public String registrarAlta(String nombreTabla, String consultaSQL){
 		int i;
 		String resultado;
