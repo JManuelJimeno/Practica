@@ -15,6 +15,7 @@ public class MVC_BDVisual {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola que tal?");
     }
     
 }
